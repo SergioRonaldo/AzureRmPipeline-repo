@@ -12,7 +12,7 @@
             "value": "East US"
         },
         "hostingPlanName": {
-            "value": "ASP-SergioLAB-b346"
+            "value": "ASP-SergioLAB"
         },
         "serverFarmResourceGroup": {
             "value": "SergioLAB"
