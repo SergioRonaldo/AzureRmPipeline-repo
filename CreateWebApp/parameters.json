@@ -2,47 +2,11 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "subscriptionId": {
-            "value": "4fb2e44d-a0f2-4117-8b7b-5f22f3d0ef62"
+        "serverfarms_ASP_SergioLAB_name": {
+            "value": null
         },
-        "name": {
-            "value": "AzureRmPipeline-app"
-        },
-        "location": {
-            "value": "East US"
-        },
-        "hostingPlanName": {
-            "value": "ASP-SergioLAB"
-        },
-        "serverFarmResourceGroup": {
-            "value": "SergioLAB"
-        },
-        "alwaysOn": {
-            "value": true
-        },
-        "sku": {
-            "value": "Standard"
-        },
-        "skuCode": {
-            "value": "S2"
-        },
-        "workerSize": {
-            "value": "0"
-        },
-        "workerSizeId": {
-            "value": "0"
-        },
-        "numberOfWorkers": {
-            "value": "1"
-        },
-        "currentStack": {
-            "value": "dotnet"
-        },
-        "phpVersion": {
-            "value": "OFF"
-        },
-        "netFrameworkVersion": {
-            "value": "v5.0"
+        "sites_AzureRmPipeline_app_name": {
+            "value": null
         }
     }
 }
