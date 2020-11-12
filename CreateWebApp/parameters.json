@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "serverfarms_ASP_SergioLAB_name": {
-            "value": null
+            "value": "ASP-SergioLAB"
         },
         "sites_AzureRmPipeline_app_name": {
-            "value": null
+            "value": "AzureRmPipeline-app"
         }
     }
 }
